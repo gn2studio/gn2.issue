@@ -10,3 +10,9 @@ GN2Studio combines the essence of the Korean onomatopoeia ``ggongnyang-ggongnyan
 ## gn2studio.github.io
 
 ``gn2studio.github.io`` is an ``Apache 2.0`` licensed web builder solution built on ``Vue3`` framework. It offers real-time editing capabilities, SSL support, integrated member management, reservation management, and various other features. Additionally, it supports a range of external plugins including Google Analytics and Facebook sharing functionalities.
+
+&nbsp;
+
+## Release (Nuget.org)
+
+- [www.nuget.org/profiles/gn2studio](https://www.nuget.org/profiles/gn2studio)
